@@ -1,6 +1,6 @@
 ---
-layout: "page"
-title: "Marine"
+layout: page
+title: Marine
 permalink: /Marine/ 
 ---
 
