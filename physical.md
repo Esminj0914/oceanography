@@ -19,3 +19,6 @@ Hazards
     Some examples are earthquakes, tsunamis, and hurricanes. 
     
 
+<img src="/../images/oceanography.jpg">
+    
+
