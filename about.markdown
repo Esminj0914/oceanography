@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello welcome to Esmin and Emri's Website. We are students that attend HSTAT in Brooklyn, New York. In HSTAT we are apart of the Software Engineering Program where we create cool projects just like this one. This website is to inform the students in school about the importance of the ocean. He focused on them because they are the next generation to help fight global warming. Since the generation above ours likes to make it worse, so we have to clean up after their messes.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+To find our Githubs:
+[Emri's](https://github.com/emrin5347/)
+[Esmin's](https://github.com/Esminj0914/)
