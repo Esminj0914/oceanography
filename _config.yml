@@ -23,8 +23,7 @@ email: Esminj0914@hstat.org Emrin5347@hstat.org
 description: Welcome to our website. If you want to learn about oceanogrpahy click one of the categories on the screen. 
 baseurl: "oceanography" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
 
 # Build settings
 theme: minima
